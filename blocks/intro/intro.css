@@ -1,0 +1,23 @@
+.intro{
+    width: 70.6%;
+    margin-left: 148px;
+    margin-top: 92px;
+}
+@media screen and (max-width: 1024px) {
+    .intro {
+        width: calc(100% - 2 * 48px);
+        margin-left: 48px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .intro {
+        width: calc(100% - 2 * 24px);
+        margin:  88px 24px 0 24px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .intro {
+        width: calc(100% - 2 * 16px);
+        margin: 64px 16px 0 16px;
+    }
+}

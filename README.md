@@ -1,7 +1,6 @@
 # Проект: Путешествие по России
 
 ### Ссылка на проект 
-<<<<<<< HEAD
 * [Ссылка на проект](https://anastaciatseveleva.github.io/russian-travel/)
 =======
 *  https://anastaciatseveleva.github.io/russian-travel/
